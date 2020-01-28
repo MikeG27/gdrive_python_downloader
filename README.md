@@ -27,3 +27,8 @@ python downloader.py -gdrive_id '1nvSTPTUv5r6bc7axUJcz6dKHUjsqdgjm' -file_name "
 Downloading 1nvSTPTUv5r6bc7axUJcz6dKHUjsqdgjm into /Users/michalgorski/Desktop/gdrive_python_downloader/mnist-64s.csv... 
 ```
 
+Gdrive class author : https://github.com/ndrplz/google-drive-downloader
+
+**Created with ♥**
+
+``By Michal Gorski``
